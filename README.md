@@ -1,7 +1,5 @@
 # NFT Marketplace
 
-
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
